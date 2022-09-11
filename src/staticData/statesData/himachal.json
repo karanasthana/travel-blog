@@ -1,0 +1,66 @@
+{
+    "name": "HIMACHAL",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/himachal-background.JPG",
+    "countryId": "india",
+    "text": "The Land Of Mountains",
+    "id": "himachal",
+    "fileName": "Himachal",
+    "places": [{
+            "place": "Triund",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/triund.jpg"
+        }, {
+            "place": "Parashar",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/parashar.jpg"
+        }, {
+            "place": "Chitkul",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/chitkul.jpg"
+        }, {
+            "place": "Sangla",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/sangla.jpg"
+        }, {
+            "place": "Manali",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/manali.jpg"
+        }, {
+            "place": "Tosh",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/tosh.jpg"
+        }, {
+            "place": "Kasol",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/kasol.jpg"
+        }, {
+            "place": "Shimla",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/shimla.jpg"
+        }, {
+            "place": "Narkanda",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/narkanda.jpg"
+        }, {
+            "place": "Bir",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/bir.JPG"
+        }, {
+            "place": "Billing",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/billing.JPG"
+        }, {
+            "place": "McLeodganj",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/mcleodganj.jpg"
+        }, {
+            "place": "Dharamshala",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/dharamshala.jpg"
+        }, {
+            "place": "Jibhi",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/jibhi.jpeg"
+        }, {
+            "place": "Kalpa",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/kalpa.jpg"
+        }, {
+            "place": "Raghupur Fort",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/raghupur.jpg"
+        }, {
+            "place": "Khajjiar",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/khajjiar.jpg"
+        }, {
+            "place": "Dalhousie",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/dalhousie.jpg"
+        }, {
+            "place": "Chamera",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal/Chamera.jpg"
+        }]
+}

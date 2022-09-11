@@ -1,0 +1,38 @@
+{
+    "name": "FLORIDA",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg",
+    "countryId": "usa",
+    "text": "",
+    "id": "florida",
+    "places": [{
+            "place": "St Augustine",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/StAugustine.JPG"
+        }, {
+            "place": "Gainesville",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Gainesville.jpeg"
+        }, {
+            "place": "Orlando",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Orlando.jpeg"
+        }, {
+            "place": "Tampa",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Tampa.jpeg"
+        }, {
+            "place": "Clearwater",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
+        }, {
+            "place": "Sarasota",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
+        }, {
+            "place": "Miami",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Miami.jpeg"
+        }, {
+            "place": "Key West",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/KeyWest.jpeg"
+        }, {
+            "place": "Daytona",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Daytona.jpeg"
+        }, {
+            "place": "West Palm Beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
+        }]
+}

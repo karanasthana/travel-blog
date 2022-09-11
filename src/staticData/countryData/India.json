@@ -1,0 +1,49 @@
+{
+    "countryName": "India",
+    "countryId": "india", 
+    "countryText": "The land of Landscapes",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/countries/india-background.jpg",
+    "places": [{
+        "name": "Himachal",
+        "id": "himachal",
+        "place": "Manali",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal-card.jpg"
+    }, {
+        "name": "Uttarakhand",
+        "id": "uttarakhand",
+        "place": "Nag Tibba",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttarakhand-card.jpg"
+    }, {
+        "name": "Rajasthan",
+        "id": "rajasthan",
+        "place": "Udaipur",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan-card.JPG"
+    }, {
+        "name": "Goa",
+        "id": "goa",
+        "place": "Candolim",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa-card.JPG"
+    }, {
+        "name": "Delhi",
+        "place": "Noida",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/delhi-card.jpg"
+    }, {
+        "name": "UP",
+        "id": "up",
+        "place": "Bareilly",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/up-card.JPG"
+    }, {
+        "name": "Punjab",
+        "id": "punjab",
+        "place": "Amritsar",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab-card.JPG"
+    }, {
+        "name": "Madhya Pradesh",
+        "place": "Jabalpur",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/jabalpur.jpg"
+    }, {
+        "name": "Andhra Pradesh",
+        "place": "Hyderabad",
+        "picture":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8g3v7ecvhb20u2tbbn4cdl1bn0-20180828015835.Medi.jpeg"
+    }]
+}

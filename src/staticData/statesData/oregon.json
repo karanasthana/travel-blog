@@ -1,0 +1,36 @@
+{
+    "name": "OREGON",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/savannah-min.jpg",
+    "countryId": "usa",
+    "text": "PNW beaches",
+    "id": "oregon",
+    "fileName": "Oregon",
+    "places": [{
+            "place": "Portland",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/atlanta.webp"
+        }, {
+            "place": "Cannon Beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/CannonBeach-min.jpg"
+        }, {
+            "place": "Columbia River Gorge",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/ColumbiaRiverGorge-min.jpg"
+        }, {
+            "place": "Heceta Lighthouse",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/HecetaLighthouse-min.jpg"
+        }, {
+            "place": "Multnomah Falls",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/MultnomahFalls-min.jpg"
+        }, {
+            "place": "Sea Lion Caves",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/SeaLionCaves-min.jpg"
+        }, {
+            "place": "Silver Falls",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/SilverFalls-min.jpg"
+        }, {
+            "place": "Thor's Well",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/ThorsWell-min.jpg"
+        }, {
+            "place": "Trillium Lake",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/oregon/TrilliumLake-min.jpg"
+        }]
+}

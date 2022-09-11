@@ -1,0 +1,36 @@
+{
+    "name": "UTTARAKHAND",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/uttarakhand-card.jpg",
+    "countryId": "india",
+    "text": "The Holy Land",
+    "id": "uttarakhand",
+    "fileName": "Uttarakhand",
+    "places": [{
+            "place": "Chandrashila",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/chandrashila.jpeg"
+        }, {
+            "place": "Tungnath",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/tungnath.jpeg"
+        }, {
+            "place": "Chopta",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/chopta.jpeg"
+        }, {
+            "place": "Nag Tibba",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/nag-tibba.jpg"
+        }, {
+            "place": "Mussorie",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/mussoorie.jpg"
+        }, {
+            "place": "Rishikesh",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/rishikesh.jpg"
+        }, {
+            "place": "Dehradun",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/dehradun.jpg"
+        }, {
+            "place": "Nainital",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/nainital.jpg"
+        }, {
+            "place": "Haridwar",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttaranchal-aes/haridwar.jpeg"
+        }]
+}

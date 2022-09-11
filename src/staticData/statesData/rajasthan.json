@@ -1,0 +1,27 @@
+{
+    "name": "RAJASTHAN",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Rajasthan.jpg",
+    "countryId": "india",
+    "text": "The Desert Place",
+    "id": "rajasthan",
+    "fileName": "Rajasthan",
+    "places": [{
+            "place": "Bikaner",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Bikaner.jpg"
+        }, {
+            "place": "Jaipur",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/jaipur.jpeg"
+        }, {
+            "place": "Jaisalmer",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Jaisalmer.jpg"
+        }, {
+            "place": "Jodhpur",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Jodhpur.jpg"
+        }, {
+            "place": "Udaipur",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }, {
+            "place": "Thar Desert",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Thar.jpg"
+        }]
+}

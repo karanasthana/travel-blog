@@ -1,0 +1,18 @@
+{
+    "name": "PUNJAB",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab/punjab-background.JPG",
+    "countryId": "india",
+    "text": "The Land of Sikhs",
+    "id": "punjab",
+    "fileName": "Punjab",
+    "places": [{
+        "place": "Amritsar",
+        "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab/amritsar.JPG"
+        }, {
+            "place": "Pathankot",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab/pathankot.JPG"
+        }, {
+            "place": "Wagah Border",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab/wagah-border.jpg"
+    }]
+}

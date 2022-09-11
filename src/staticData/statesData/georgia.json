@@ -1,0 +1,24 @@
+{
+    "name": "GEORGIA",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/savannah-min.jpg",
+    "countryId": "usa",
+    "text": "Georgia peaches beaches",
+    "id": "georgia",
+    "fileName": "Georgia",
+    "places": [{
+            "place": "Atlanta",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/atlanta.webp"
+        }, {
+            "place": "Savannah",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/georgia-min.jpg"
+        }, {
+            "place": "Tybee Islands",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/tybee-min.jpg"
+        }, {
+            "place": "Helen",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/helen-min.jpeg"
+        }, {
+            "place": "Wormsloe",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/georgia/wormsloe-min.jpg"
+        }]
+}

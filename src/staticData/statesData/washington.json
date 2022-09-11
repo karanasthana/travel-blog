@@ -1,0 +1,57 @@
+{
+    "name": "WASHINGTON",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Seattle-min.jpg",
+    "countryId": "usa",
+    "text": "Treks and Hikes",
+    "id": "washington",
+    "fileName": "Washington",
+    "places": [{
+            "place": "Mt Rainier",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/rainier-min.jpeg"
+        }, {
+            "place": "Bainbridge Island",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/BainbridgeIsland-min.jpg"
+        }, {
+            "place": "Coupeville",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Coupeville-min.jpg"
+        }, {
+            "place": "Deception Pass",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/DeceptionPass-min.jpg"
+        }, {
+            "place": "Franklin Falls",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/FranklinFalls-min.jpg"
+        }, {
+            "place": "Hoh Rainforest",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/HohRainforest-min.jpg"
+        }, {
+            "place": "Jefferson",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Jefferson-min.jpg"
+        }, {
+            "place": "Kalaloch Beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/KalalochBeach-min.jpg"
+        }, {
+            "place": "Seattle",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Seattle-min.jpg"
+        }, {
+            "place": "Lake22",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Lake22-min.jpg"
+        }, {
+            "place": "Mt Si",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/MountSi-min.jpg"
+        }, {
+            "place": "Mt Teneriffe",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/MountTeneriffe-min.jpg"
+        }, {
+            "place": "Olympic National Park",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/OlympicNationalPark-min.jpg"
+        }, {
+            "place": "Packwood",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/Packwood-min.jpg"
+        }, {
+            "place": "Pyramid Peak",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/PyramidPeak-min.jpg"
+        }, {
+            "place": "RattleSnake",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/washington/RattleSnake-min.jpg"
+        }]
+}

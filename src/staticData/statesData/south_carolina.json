@@ -1,0 +1,26 @@
+{
+    "name": "SOUTH CAROLINA",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/SouthCarolina.jpg",
+    "countryId": "usa",
+    "text": "",
+    "id": "south_carolina",
+    "places": [{
+            "place": "Greenville",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/Greenville.jpg"
+        }, {
+            "place": "Myrtle Beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/MyrtleBeach.jpeg"
+        }, {
+            "place": "Charleston",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/Charleston.jpeg"
+        }, {
+            "place": "Columbia",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/Columbia-sc.jpeg"
+        }, {
+            "place": "Caesars Head State Park",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/Caesars-Head.jpg"
+        }, {
+            "place": "Lake Robinson",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/LakeRobinson.jpg"
+        }]
+}

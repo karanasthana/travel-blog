@@ -1,0 +1,21 @@
+{
+    "name": "NEW YORK",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/new_york/new_york.jpg",
+    "countryId": "usa",
+    "text": "Ski & Surf, both today",
+    "id": "new_york",
+    "fileName": "New York",
+    "places": [{
+            "place": "Buffalo",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/new_york/buffalo.jpg"
+        }, {
+            "place": "New York City",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/new_york/new_york_city.jpg"
+        }, {
+            "place": "Rochester",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/new_york/rochester.jpg"
+        }, {
+            "place": "Syracuse",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/new_york/syracuse.jpg"
+        }]
+}

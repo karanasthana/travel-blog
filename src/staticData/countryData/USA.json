@@ -1,0 +1,67 @@
+{
+    "countryName": "United States of America",
+    "countryId": "usa", 
+    "countryText": "",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/countries/usa-background.jpg",
+    "places": [{
+        "name": "Florida",
+        "place": "Daytona",
+        "id": "florida",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg"
+    }, {
+        "name": "Washington",
+        "place": "Seattle",
+        "id": "washington",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/washington.jpg"
+    }, {
+        "name": "Oregon",
+        "place": "Portland",
+        "id": "oregon",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/washington.jpg"
+    }, {
+        "name": "South Carolina",
+        "place": "Greenville",
+        "id": "south_carolina",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/SouthCarolina.jpg"
+    }, {
+        "name": "North Carolina",
+        "place": "Raleigh",
+        "id": "north_carolina",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/north-carolina.jpg"
+    }, {
+        "name": "Georgia",
+        "place": "Atlanta",
+        "id": "georgia",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/georgia.png"
+    }, {
+        "name": "California",
+        "place": "San Francisco",
+        "id": "california",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/california.jpg"
+    }, {
+        "name": "New York",
+        "place": "New York",
+        "id": "new_york",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/new-york.jpg"
+    }, {
+        "name": "Arizona",
+        "place": "Grand Canyon",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/arizona.png"
+    }, {
+        "name": "Illinois",
+        "place": "Chicago",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/illinois.jpg"
+    }, {
+        "name": "Alaska",
+        "place": "Denali",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/alaska.jpg"
+    }, {
+        "name": "Texas",
+        "place": "San Antonio",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/texas.jpg"
+    }, {
+        "name": "Idaho",
+        "place": "Boise",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/texas.jpg"
+    }]
+}

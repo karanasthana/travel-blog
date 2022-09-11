@@ -1,0 +1,30 @@
+{
+    "name": "GOA",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/baga.JPG",
+    "countryId": "india",
+    "text": "The Beach Paradise",
+    "id": "goa",
+    "fileName": "Goa",
+    "places": [{
+            "place": "Baga",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/goa-background.JPG"
+        }, {
+            "place": "Candolim",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/candolim.JPG"
+        }, {
+            "place": "Arambol",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/arambol.JPG"
+        }, {
+            "place": "Aguada",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/aguada.JPG"
+        }, {
+            "place": "Anjuna",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/anjuna.JPG"
+        }, {
+            "place": "Chapora",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/chapora.JPG"
+        }, {
+            "place": "Sweet water lake",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa/sweet-water-lake.JPG"
+        }]
+}

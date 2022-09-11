@@ -1,0 +1,43 @@
+{
+    "countryName": "Singapore",
+    "countryId": "singapore", 
+    "countryText": "Built of Buildings",
+    "picture": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2015/10/30/1510/Grand-Hyatt-Singapore-P615-Esplanade.jpg/Grand-Hyatt-Singapore-P615-Esplanade.16x9.jpg",
+    "places": [{
+        "name": "Sentosa",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/sentosa-card.JPG"
+    }, {
+        "name": "Merlion Park",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/merlion-card.JPG"
+    }, {
+        "name": "Little India",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/little-india-card.JPG"
+    }, {
+        "name": "Universal Studios",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/universal-card.jpg"
+    }, {
+        "name": "Singapore Flyer",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/singapore-flyer-card.JPG"
+    }, {
+        "name": "Wildlife Night Safari",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/wildlife-safari-card.jpg"
+    }, {
+        "name": "Lao Pa Sat",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/lao-pa-sat-card.jpg"
+    }, {
+        "name": "East Coast Park",
+        "place": "",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/ecp-card.JPG"
+    }, {
+        "name": "Gardens By the Bay",
+        "place": "Still to go",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/singapore/gardens-by-the-bay-card.jpeg"
+    }]
+}
